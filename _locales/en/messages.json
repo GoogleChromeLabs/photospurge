@@ -1,0 +1,30 @@
+{
+  "appName": {
+    "message": "Photos Purge",
+    "description": "Name of the application"
+  },
+  "appDesc": {
+    "message": "Automation to support the deletion of all photos. Used to support the reduction of storage. https://github.com/GoogleChromeLabs/photospurge",
+    "description": "Description of the application"
+  },
+  "deleteall": {
+    "message": "Delete All",
+    "description": "Delete all button label."
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "Cancel button label."
+  },
+  "deleteallphotos": {
+    "message": "Delete All Photos",
+    "description": "Delete all photos modal title."
+  },
+  "deletemodalmessage": {
+    "message": "<p>This operation will crawl through Google Photos and move all images to the trash.</p><p>This window will need to remain open to delete all Photos.</p>",
+    "description": "Delete modal message."
+  },
+  "agree": {
+    "message": "Agree",
+    "description": "Agree button label."
+  }
+}
