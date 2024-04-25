@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Photos Purge",
+  "name": "__MSG_appName__",
   "version": "0.0.2",
   "author": "Clay Smith",
   "short_name": "Photos Purge",
   "default_locale": "en",
-  "description": "Purge Google Photos.",
+  "description": "Automation to support the deletion of all photos.",
   "icons": {
     "19": "images/19.png",
     "32": "images/32.png",

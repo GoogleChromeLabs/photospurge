@@ -1,0 +1,30 @@
+{
+  "appName": {
+    "message": "Apaga Fotos",
+    "description": "Name of the application"
+  },
+  "appDesc": {
+    "message": "Reduza o espaço de armazenamento com a automação de exclusão de fotos. https://github.com/GoogleChromeLabs/photospurge",
+    "description": "Description of the application"
+  },
+  "deleteall": {
+    "message": "Excluir tudo",
+    "description": "Delete all button label."
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": "Cancel button label."
+  },
+  "deleteallphotos": {
+    "message": "Deletar todas as fotos",
+    "description": "Delete all photos modal title."
+  },
+  "deletemodalmessage": {
+    "message": "<p>Esta operação vai analisar o Google Fotos e mover todas as imagens para a lixeira.</p><p>Esta janela precisa permanecer aberta para que todas as fotos sejam excluídas.</p>",
+    "description": "Delete modal message."
+  },
+  "agree": {
+    "message": "Estou de acordo",
+    "description": "Agree button label."
+  }
+}

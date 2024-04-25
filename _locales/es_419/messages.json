@@ -1,0 +1,30 @@
+{
+  "appName": {
+    "message": "Elimina Fotos",
+    "description": "Name of the application"
+  },
+  "appDesc": {
+    "message": "Herramienta de automatización para eliminar todas las fotos de un usuario. Se puede usar para reducir el almacenamiento utilizado. https://github.com/GoogleChromeLabs/photospurge",
+    "description": "Description of the application"
+  },
+  "deleteall": {
+    "message": "Eliminar todas",
+    "description": "Delete all button label."
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": "Cancel button label."
+  },
+  "deleteallphotos": {
+    "message": "Eliminar todas las fotos",
+    "description": "Delete all photos modal title."
+  },
+  "deletemodalmessage": {
+    "message": "<p>Esta tarea va a recorrer las fotos de Google Fotos y mover todas las imégenes a la papelera.</p><p>Esta ventana debe permanecer abierta para elimar todas las fotos.</p>",
+    "description": "Delete modal message."
+  },
+  "agree": {
+    "message": "Estoy de acuerdo",
+    "description": "Agree button label."
+  }
+}
